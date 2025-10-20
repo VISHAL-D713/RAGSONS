@@ -1,0 +1,65 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif Toto
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/notoseriftoto/v6/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Il-aj55vdNug.ttf
+- Font License: undefined)
+
+// const body = document.body;
+// const nav = document.querySelector('nav');
+
+// window.addEventListener('scroll', () => {
+//     const scrollY = window.scrollY;
+//     const navHeight = nav.offsetHeight;
+
+//     // Calculate fade based on scroll
+//     // When scrollY >= navHeight, background fully hidden
+//     let opacity = 1 - scrollY / navHeight;
+//     if(opacity < 0) opacity = 0;
+
+//     body.style.backgroundColor = `rgba(100,149,237,${opacity})`; // fallback color
+//     body.style.backgroundImage = opacity === 0 ? 'none' : 
+//         'url("https://static01.nyt.com/images/2018/08/21/arts/21bettercallsaul-recap/21bettercallsaul-recap-superJumbo.jpg")';
+// });
+
+// const observer=new IntersectionObserver((entries)=>{
+// entries.forEach((e)=>{
+//     console.log(e);
+//     if(e.isIntersecting){
+//         e.target.classList.add('show')
+//     }
+//     else{
+//         e.target.classList.remove('show')
+//     }
+    
+// })
+// })
+
+
+
+// const hiddenElements=document.querySelector(".bg")
+// observer.observe(hiddenElements)
+
+// const a= document.querySelector('.cards')
+// a.setTimeout(() => {
+//     a.style.display=none;
+// }, 2000);
+
+
+//   const observer = new IntersectionObserver(entries => {
+//     entries.forEach(entry => {
+//       if(entry.isIntersecting){
+//         entry.target.classList.add('show');
+//       } else {
+//         entry.target.classList.remove('show');
+//       }
+//     });
+//   }, { threshold: 0.1 });
+
+//   // Observe background
+//   const bg = document.querySelector('.bg');
+//   if(bg) observer.observe(bg);
+
+//   // Observe each card
+//   document.querySelectorAll('.card').forEach(card => observer.observe(card));
+// });
