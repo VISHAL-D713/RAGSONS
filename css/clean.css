@@ -1757,3 +1757,10 @@ transform: translateX(0);
 html{
   scroll-behavior: smooth;
 }
+.clist ul{
+
+  position: relative;
+      /* margin-right: -139px; */
+      left: 50px;
+      top: -31px;
+}
