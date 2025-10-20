@@ -28,6 +28,6 @@ I experimented with:
 - **Learning Focus**: This project helped me understand how animations, scroll effects, and interactive components work together on a real webpage  
 
 ---
-
+> The site is live is at- **https://ragsons.netlify.app/**
 > This site is a **personal project** for learning purposes and is **not a production e-commerce site**.  
 
