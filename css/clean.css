@@ -492,11 +492,11 @@ transform: translateX(0);
 }
 .sh img{
 
-  height: 70%;
+  height: 80%;
   width: 100%;
   object-fit: cover;
   display: block;
-  object-position: center center;
+  object-position: top ;
   position: relative;
   bottom: 105px;
 
